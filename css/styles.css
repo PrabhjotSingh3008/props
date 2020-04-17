@@ -10,8 +10,13 @@
   margin: 1.5rem;
 }
 
-.cen{
-  align-content: center;
-  align-items: center;
-  align: center;
+
+
+.divbyte{
+  margin: 2rem 5rem 2rem 5rem;
+  padding-top: 2rem;
+}
+
+.pbyte{
+  margin-top: 2rem;
 }
